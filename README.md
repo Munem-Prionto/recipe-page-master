@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://recipe-page-master-munemprionto.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Munem-Prionto/recipe-page-master">
       Solution
     </a>
     <span> | </span>
@@ -32,4 +32,6 @@
 
 - Website [https://munemprionto.netlify.app/](https://munemprionto.netlify.app/)
 - GitHub [@Munem-Prionto](https://github.com/Munem-Prionto)
+
+
 
